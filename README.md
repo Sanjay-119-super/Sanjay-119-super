@@ -14,21 +14,27 @@
 </div>
 
 ### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjayjavadev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayjavadev&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjayjavadev&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=sanjayjavadev&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+### 📈 GitHub Contribution Activity
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayjavadev&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
+
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjayjavadev&theme=darkhub&row=1&margin-w=15&no-frame=true"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjayjavadev&theme=algolia&row=1&column=7&no-frame=true" />
+</div>
+
 
 ### 🔝 Most Used Languages
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayjavadev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
+
 
 
