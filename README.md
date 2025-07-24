@@ -8,15 +8,27 @@
 - 📫 Reach me at **sanjay052025@gmail.com**
 - ⚡ Fun fact: I love solving real-world problems via backend logic.
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+### 🛠️ My Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kafka,mysql,git,github" alt="Tech Stack" height="50" />
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjayjavadev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayjavadev&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayjavadev&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjayjavadev&theme=darkhub&row=1&margin-w=15&no-frame=true"/>
 </p>
 
-### 📈 GitHub Stats
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjayjavadev&show_icons=true&theme=tokyonight)
+### 🔝 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayjavadev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 
