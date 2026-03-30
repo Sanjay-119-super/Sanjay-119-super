@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'JetBrains Mono', monospace;">Hi 👋, I'm <span style="color:#00FFCC;">Sanjay</span></h1>
-<h3 align="center" style="font-family: 'JetBrains Mono', monospace;">A Passionate Java Backend Developer who Crafts Code with ❤️</h3>
+<h3 align="center" style="font-family: 'JetBrains Mono', monospace;">A Passionate Java Backend Developer who Crafts Code with ❤️.</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=45&lines=Java+%7C+Spring+Boot+%7C+Microservices;Docker+%7C+Kafka+%7C+Clean+Architecture;Cloud+Ready+Scalable+Apps" alt="Typing SVG" />
 </p>
