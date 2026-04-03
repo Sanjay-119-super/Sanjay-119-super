@@ -111,7 +111,7 @@
 
 ### 💫 Connect with the Creator
 <p align="center">
-  <a href="mailto:sanjaypace89@gmail.com"><img src="https://img.shields.io/badge/-sanjaypace89@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F2E"/></a>
+  <a href="mailto:sanjaypach89@gmail.com"><img src="https://img.shields.io/badge/-sanjaypach89@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F2E"/></a>
   <a href="https://www.linkedin.com/in/sanjayjavadev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F2E"/></a>
   <a href="https://github.com/Sanjay-119-super"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F2E"/></a>
   <a href="https://x.com/SanjayJava6006"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A0F2E"/></a>
