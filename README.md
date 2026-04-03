@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Auto-refresh on every commit)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-119-super&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="180"/>
@@ -43,7 +43,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies (Auto-update)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sanjay-119-super&theme=algolia&no-frame=true&margin-w=5&column=6" />
@@ -51,18 +51,19 @@
 
 ---
 
-### 📈 LeetCode & GFG Stats (Static Badges)
+### 📈 LeetCode & GFG Stats (Live, update daily)
 
 <p align="center">
-  <a href="https://leetcode.com/your-leetcode-id/">
-    <img src="https://img.shields.io/badge/LeetCode-Solved: 150+-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/your-gfg-id/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-200+_solved-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
+  <!-- LeetCode Stats Card (live) -->
+  <img src="https://leetcode-stats-card.vercel.app/api?username=R0iZzo8hBw&theme=dark&show_icons=true&hide_border=true" width="400" />
+  &nbsp;&nbsp;
+  <!-- GFG Stats Card (live) -->
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?username=devjavarid8&layout=compact&theme=dark" width="400" />
 </p>
 
-> 💡 **Note:** LeetCode aur GFG real-time stats ke liye you can use third-party cards like [LeetCode Stats Card](https://github.com/JeremyTsaii/leetcode-stats-card) ya [GFG Stats Card](https://github.com/ChaitanyaNarva/GFG-Stats-Card). Link update kar dena apne username se.
+> 💡 **Note:** LeetCode card shows total solved, easy/medium/hard breakdown, ranking, and contest rating.  
+> GFG card shows coding score, problems solved, and institute rank.  
+> Data refreshes automatically every few hours (cached by the service providers).
 
 ---
 
@@ -85,9 +86,14 @@
 
 ---
 
-### 📌 Recent Activity (Auto-updates via GitHub Actions)
+### 📌 Recent Activity Graph (Real-time)
 
-You can add a **real-time activity log** using [GitHub Readme Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph):
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-119-super&theme=tokyonight" width="90%" />
+</p>
 
-```markdown
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-119-super&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=120&section=footer"/>
+</p>
