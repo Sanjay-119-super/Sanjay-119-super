@@ -41,7 +41,7 @@
 
 ---
 
-### 🧠 Tech Arsenal (Holographic Icons)
+### 🧠 Tech Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,docker,kafka,maven,postman,git,aws,mysql,redis,kubernetes,grafana" />
 </p>
@@ -56,7 +56,7 @@
 
 ---
 
-### 📈 Real-time GitHub Alchemy (Live Stats)
+### 📈  GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-119-super&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0A0F2E&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-119-super&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F2E&title_color=00FFCC&text_color=FFFFFF" width="350" />
@@ -67,7 +67,7 @@
 
 ---
 
-### 🏆 Quantum Trophies (3D Hover Effect)
+### 🏆 Quantum Trophies 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sanjay-119-super&theme=algolia&no-frame=true&margin-w=5&column=6&bg_color=0A0F2E" />
 </div>
