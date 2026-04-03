@@ -18,7 +18,7 @@
 
 ---
 
-### 📊 GitHub Stats (Auto-refresh on each commit)
+### 📊 GitHub Stats (Live)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-119-super&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-119-super&layout=compact&theme=tokyonight&hide_border=true" height="180" />
@@ -29,26 +29,34 @@
 
 ---
 
-### 🏆 GitHub Trophies (Live)
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sanjay-119-super&theme=algolia&no-frame=true&margin-w=5&column=6" />
 </p>
 
 ---
 
-### 📈 LeetCode & GeeksforGeeks Stats (Daily updated)
+### 📈 LeetCode & GeeksforGeeks Stats
 
-| LeetCode | GeeksforGeeks |
-|----------|----------------|
-| <img src="https://leetcode-stats-card.vercel.app/api?username=R0iZzo8hBw&theme=dark&show_icons=true&hide_border=true" width="400" /> | <img src="https://geeks-for-geeks-stats-api.vercel.app/?username=devjavarid8&layout=compact&theme=dark" width="400" /> |
+#### LeetCode
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FR0iZzo8hBw&color=brightgreen" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FR0iZzo8hBw&color=green" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FR0iZzo8hBw&color=yellow" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FR0iZzo8hBw&color=red" />
+</p>
 
-> ✅ **Note:** LeetCode card shows total solved (122+), easy/medium/hard breakdown, and contest rating.  
-> ✅ GFG card shows 103 problems solved, coding score 275.  
-> ✅ Data refreshes every few hours (cached by the services).
+#### GeeksforGeeks
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding%20Score-275-blue?style=for-the-badge&logo=geeksforgeeks" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-103-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
+</p>
+
+> 💡 **Note:** LeetCode badges fetch live data from a public API (may take a few seconds to load). GFG badges are manually updated – change numbers as you progress.
 
 ---
 
-### 📌 Recent Activity Graph (Live)
+### 📌 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-119-super&theme=tokyonight" width="90%" />
 </p>
