@@ -1,9 +1,8 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2E,100:00FFCC&height=200&section=header&text=Sanjay%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN%20%2B%20Java)%20%7C%20Exploring%20GenAI&descSize=18&descAlignY=58&descColor=00FFCC" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2E,100:00FFCC&height=220&section=header&text=Sanjay%20Kumar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20(MERN%20%2B%20Java)%20%7C%20Exploring%20GenAI&descSize=19&descAlignY=55&descColor=00FFCC" width="100%"/>
 </div>
 
-<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&height=55&lines=Full+Stack+Developer+%7C+MERN+%26+Java;React+%7C+Node.js+%7C+Spring+Boot+%7C+MongoDB;Building+Production-Ready+Web+Apps;Now+Exploring%3A+GenAI+%2B+LLM+Integration;BCA+Final+Year+%E2%80%94+Graduating+2026;Open+to+Remote+Startup+Roles+%F0%9F%9A%80" />
 </p>
@@ -16,62 +15,193 @@
   <img src="https://komarev.com/ghpvc/?username=Sanjay-119-super&style=for-the-badge&color=00FFCC&labelColor=0A0F2E&label=PROFILE+VIEWS"/>
 </p>
 
+<div align="center">
+
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| 🏢 **Ex-SAG Infotech** | 💼 **2 Full-Stack Products Shipped** | 🧠 **225+ DSA Problems Solved** | 🎓 **BCA — Grad 2026** |
+
+</div>
+
 ---
 
-## 👋 Hey, I'm Sanjay Kumar
+## 👋 About Me
 
 > *"I don't just write code — I build systems that scale."*
 
-I'm a **Full Stack Developer** from Jaipur, India, currently in my final year of BCA (graduating 2026). I started as a **Java backend developer** with real production experience at **SAG Infotech** — shipping REST APIs, building Microservices, and working in Agile teams. I've since gone full-stack, now building end-to-end products with **React, Node.js, Express, and MongoDB** — and I'm currently expanding into **GenAI and LLM-powered backends**.
+I'm a **Full Stack Developer** from Jaipur, India. I started as a **Java backend developer** with real production experience at **SAG Infotech** — shipping REST APIs, building Microservices, and working in Agile teams. I've since gone full-stack, now designing and shipping complete products end-to-end with **React, Node.js, Express, and MongoDB** — and I'm currently expanding into **GenAI and LLM-powered backends**.
 
-I believe in **learning by building** — every concept I study turns into a project, a PR, or a problem solved in production.
+I believe in **learning by building** — every concept I study turns into a project, a PR, or a bug fixed in production.
 
-- 🔭 Currently building **HireFlow** — a role-based recruitment platform (MERN)
-- 🧩 Also shipping **TeamBoard** — a full-stack project management app
-- 🌱 Now learning **GenAI + LLM Integration** for intelligent backends
-- 🎯 Goal: **Remote Full Stack / Backend role at a high-growth startup**
-- 💬 Ask me about **React, Node.js, Java, Spring Boot, System Design**
-- ⚡ Fun fact: I debug faster with chai ☕ than coffee
+```
+🔭  Building        → HireFlow (role-based recruitment platform, MERN)
+🧩  Shipping         → TeamBoard (full-stack project management app)
+🌱  Learning         → GenAI + LLM Integration for intelligent backends
+🎯  Goal             → Remote Full Stack / Backend role at a high-growth startup
+💬  Ask me about     → React, Node.js, Java, Spring Boot, System Design
+⚡  Fun fact         → I debug faster with chai ☕ than coffee
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+<div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0A0F2E)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0A0F2E)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=0A0F2E)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=0A0F2E)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=0A0F2E)
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,redux,sass,angular,html,css,js&theme=dark" />
+
+<br/><br/>
 
 **Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,graphql&theme=dark" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0A0F2E)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0A0F2E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0A0F2E)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=0A0F2E)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white&labelColor=0A0F2E)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0A0F2E)
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0A0F2E)
+<br/><br/>
 
-**Database**
+**Database & Cache**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" />
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0A0F2E)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0A0F2E)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0A0F2E)
-
-**GenAI & Emerging**
-
-![OpenAI](https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0A0F2E)
-![LangChain](https://img.shields.io/badge/LLM_Integration-00FFCC?style=for-the-badge&logo=chainlink&logoColor=0A0F2E&labelColor=0A0F2E)
+<br/><br/>
 
 **DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kafka,git,github,postman,vscode&theme=dark" />
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0F2E)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=0A0F2E)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0F2E)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0A0F2E)
+<br/><br/>
+
+**GenAI & Emerging**
+<br/>
+<img src="https://skillicons.dev/icons?i=openai,py&theme=dark" />
+<img src="https://img.shields.io/badge/LangChain-00FFCC?style=for-the-badge&logoColor=0A0F2E&labelColor=0A0F2E&color=1a1a2e"/>
+<img src="https://img.shields.io/badge/LLM_APIs-00FFCC?style=for-the-badge&labelColor=0A0F2E&color=1a1a2e"/>
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+### 💼 HireFlow — Full-Stack Recruitment Platform
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**A role-aware hiring platform connecting candidates and recruiters through one clean workflow.**
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,sass&theme=dark" />
+
+**Key Features**
+- 🔐 JWT auth with refresh token rotation + role-based access control
+- 🔍 Job listing with pagination, filters, debounced search
+- 📝 Apply flow with duplicate-apply conflict handling
+- 📊 Candidate & Recruiter dashboards with pipeline funnel charts
+- 🌗 Centralized dark/light theme system
+
+**[View Repository →](https://github.com/Sanjay-119-super/hireflow)**
+
+</td>
+<td width="45%" valign="top">
+
+```mermaid
+graph TD
+    A[React + Vite Client] -->|Axios + JWT| B[Express 5 API]
+    B -->|Access/Refresh Tokens| A
+    B --> C{Role Check}
+    C -->|Candidate| D[Jobs · Applications · Saved]
+    C -->|Recruiter| E[Post Jobs · Review Pipeline]
+    D --> F[(MongoDB)]
+    E --> F
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🗂️ TeamBoard — Project Management App
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**A full-stack task & project tracker built for small teams to plan, assign, and ship work.**
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,sass&theme=dark" />
+
+**Key Features**
+- 📋 Project & task CRUD with soft-delete and restore
+- 👤 Shared layout with avatar dropdown & theme toggle
+- 📈 CSS-only donut chart dashboard for progress tracking
+- 🔐 JWT-protected routes with `ProtectedRoute` guard
+- 🌗 Centralized dark/light theme system
+
+**[View Repository →](https://github.com/Sanjay-119-super/teamboard)**
+
+</td>
+<td width="45%" valign="top">
+
+```mermaid
+graph TD
+    A[React + Vite Client] -->|Axios + JWT| B[Express API]
+    B --> C[Controller Layer]
+    C --> D[Service Layer]
+    D --> E[(MongoDB + Mongoose)]
+    D --> F[Soft-Delete / Restore Logic]
+    B --> G[Auth Middleware]
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔐 Full-Stack Authentication System
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**A production-grade auth system built with a security-first mindset.**
+
+<img src="https://skillicons.dev/icons?i=react,java,spring,mysql&theme=dark" />
+
+**Key Features**
+- 🔑 JWT auth with access & refresh token expiry handling
+- 🌐 OAuth2 login — Google / GitHub
+- 🛡️ Spring Security role-based access control (ADMIN / USER)
+- ⚠️ Global exception handling with custom error responses
+- 🗄️ Optimized MySQL queries with proper indexing
+- 🧱 Clean Controller → Service → Repository architecture
+
+**[View Repository →](https://github.com/Sanjay-119-super/full-stack-Authentication-App-)**
+
+</td>
+<td width="45%" valign="top">
+
+```mermaid
+graph TD
+    A[React Client] -->|REST + JWT| B[Spring Boot API]
+    B --> C[Spring Security Filter]
+    C --> D{Role Check}
+    D -->|Admin| E[Admin Endpoints]
+    D -->|User| F[User Endpoints]
+    B --> G[(MySQL)]
+    B --> H[OAuth2 Provider]
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+> 📌 *More projects coming soon — currently building GenAI-powered backend features*
 
 ---
 
@@ -132,85 +262,21 @@ I believe in **learning by building** — every concept I study turns into a pro
 
 ---
 
-## 🔥 Featured Projects
-
----
-
-### 💼 HireFlow — Full-Stack Recruitment Platform
-> *A role-aware hiring platform connecting candidates and recruiters through one clean workflow.*
-
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=0A0F2E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0A0F2E)
-![Express](https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white&labelColor=0A0F2E)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0A0F2E)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0A0F2E)
-
-**Key Features:**
-- 🔐 JWT auth with refresh token rotation & role-based access control
-- 🔍 Job listing with pagination, filters, debounced search
-- 📝 Apply flow with duplicate-apply conflict handling
-- 📊 Separate Candidate & Recruiter dashboards with pipeline charts
-- 🌗 Centralized dark/light theme system
-
-**[View Repository →](https://github.com/Sanjay-119-super/hireflow)**
-
----
-
-### 🗂️ TeamBoard — Project Management App
-> *A full-stack task & project tracker built for small teams.*
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=0A0F2E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0A0F2E)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0A0F2E)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white&labelColor=0A0F2E)
-
-**Key Features:**
-- 📋 Project & task CRUD with soft-delete and restore
-- 👤 Profile management with avatar dropdown
-- 📈 CSS-only donut chart dashboard for progress tracking
-- 🌗 Centralized dark/light theme system
-
-**[View Repository →](https://github.com/Sanjay-119-super/teamboard)**
-
----
-
-### 🔐 Full-Stack Authentication System
-> *Production-grade auth system built with a security-first mindset.*
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0A0F2E)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white&labelColor=0A0F2E)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white&labelColor=0A0F2E)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0A0F2E)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white&labelColor=0A0F2E)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=0A0F2E)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0A0F2E)
-
-**Key Features:**
-- 🔑 JWT auth with access & refresh token expiry handling
-- 🌐 OAuth2 login — Google / GitHub
-- 🛡️ Role-based access control (ADMIN / USER)
-- ⚠️ Global exception handling with custom error responses
-- 🗄️ Optimized MySQL queries with proper indexing
-- 🧱 Clean Controller → Service → Repository architecture
-
-**[View Repository →](https://github.com/Sanjay-119-super/full-stack-Authentication-App-)**
-
----
-
-> 📌 *More projects coming soon — currently building GenAI-powered backend features*
-
----
-
 ## 🌱 Currently Learning
 
-- 🤖 **GenAI + LLM Integration** — building intelligent backends with AI APIs
-- 🧠 **Data Structures & Algorithms** — pattern-based problem solving
-  - ✅ Two Pointers · ✅ Fast & Slow Pointers
-  - 🚧 Sliding Window
-  - ⏭️ Intervals · Heaps · Top-K · K-way Merge
-- 🏗️ **System Design** — HLD/LLD, CAP theorem, consistent hashing
-- 📦 **Kubernetes** — container orchestration beyond Docker
-- 📐 **Design Patterns** — Gang of Four patterns in real codebases
+<div align="center">
+
+| Track | Status |
+|---|---|
+| 🤖 GenAI + LLM Integration | 🚧 In Progress |
+| 🧠 DSA — Two Pointers, Fast & Slow | ✅ Completed |
+| 🧠 DSA — Sliding Window | 🚧 In Progress |
+| 🧠 DSA — Intervals, Heaps, Top-K, K-way Merge | ⏭️ Upcoming |
+| 🏗️ System Design — HLD/LLD, CAP theorem | 🌱 Learning |
+| 📦 Kubernetes | 🌱 Learning |
+| 📐 Design Patterns (GoF) | 🌱 Learning |
+
+</div>
 
 ---
 
