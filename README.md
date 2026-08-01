@@ -72,11 +72,30 @@ I believe in **learning by building** — every concept I study turns into a pro
 
 <br/><br/>
 
-**GenAI & Emerging**
+**GenAI & LLM Engineering**
 <br/>
-<img src="https://skillicons.dev/icons?i=openai,py&theme=dark" />
-<img src="https://img.shields.io/badge/LangChain-00FFCC?style=for-the-badge&logoColor=0A0F2E&labelColor=0A0F2E&color=1a1a2e"/>
-<img src="https://img.shields.io/badge/LLM_APIs-00FFCC?style=for-the-badge&labelColor=0A0F2E&color=1a1a2e"/>
+<img src="https://skillicons.dev/icons?i=openai,py,pytorch,tensorflow&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00FFCC&labelColor=0A0F2E"/>
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logoColor=00FFCC&labelColor=0A0F2E&color=1a1a2e"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=0A0F2E&labelColor=0A0F2E"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0A0F2E"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/RAG-00FFCC?style=for-the-badge&labelColor=0A0F2E&color=1a1a2e"/>
+<img src="https://img.shields.io/badge/Embeddings-00FFCC?style=for-the-badge&labelColor=0A0F2E&color=1a1a2e"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-00FFCC?style=for-the-badge&labelColor=0A0F2E&color=1a1a2e"/>
+<img src="https://img.shields.io/badge/Fine--Tuning-00FFCC?style=for-the-badge&labelColor=0A0F2E&color=1a1a2e"/>
+<img src="https://img.shields.io/badge/Semantic_Search-00FFCC?style=for-the-badge&labelColor=0A0F2E&color=1a1a2e"/>
+<img src="https://img.shields.io/badge/AI_Agents-00FFCC?style=for-the-badge&labelColor=0A0F2E&color=1a1a2e"/>
+<br/><br/>
+
+**Vector Databases**
+<br/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=00FFCC&labelColor=0A0F2E&color=1a1a2e"/>
+<img src="https://img.shields.io/badge/ChromaDB-00FFCC?style=for-the-badge&labelColor=0A0F2E&color=1a1a2e"/>
+<img src="https://img.shields.io/badge/FAISS-00FFCC?style=for-the-badge&logo=meta&logoColor=00FFCC&labelColor=0A0F2E&color=1a1a2e"/>
+<img src="https://img.shields.io/badge/Weaviate-00FFCC?style=for-the-badge&labelColor=0A0F2E&color=1a1a2e"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&labelColor=0A0F2E"/>
 
 </div>
 
@@ -268,7 +287,11 @@ graph TD
 
 | Track | Status |
 |---|---|
-| 🤖 GenAI + LLM Integration | 🚧 In Progress |
+| 🤖 RAG (Retrieval-Augmented Generation) | 🚧 In Progress |
+| 🧬 Embeddings & Semantic Search | 🚧 In Progress |
+| 🗄️ Vector Databases (Pinecone, ChromaDB, FAISS) | 🚧 In Progress |
+| 🔗 LangChain / LlamaIndex Frameworks | 🌱 Learning |
+| ✍️ Prompt Engineering & Fine-Tuning | 🌱 Learning |
 | 🧠 DSA — Two Pointers, Fast & Slow | ✅ Completed |
 | 🧠 DSA — Sliding Window | 🚧 In Progress |
 | 🧠 DSA — Intervals, Heaps, Top-K, K-way Merge | ⏭️ Upcoming |
