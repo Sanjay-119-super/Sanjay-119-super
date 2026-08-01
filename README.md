@@ -1,6 +1,8 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2E,100:00FFCC&height=220&section=header&text=Sanjay%20Kumar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20(MERN%20%2B%20Java)%20%7C%20Exploring%20GenAI&descSize=19&descAlignY=55&descColor=00FFCC" width="100%"/>
+  <img src="./assets/header_hero.svg" width="100%"/>
+  <h1>Sanjay Kumar</h1>
+  <p><b>Full Stack Developer (MERN + Java) | Exploring GenAI</b></p>
 </div>
 
 <p align="center">
@@ -328,5 +330,5 @@ graph TD
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFCC,100:0A0F2E&height=120&section=footer&animation=twinkle"/>
+  <img src="./assets/footer_hero.svg" width="100%"/>
 </div>
