@@ -1,0 +1,98 @@
+<svg width="1280" height="220" viewBox="0 0 1280 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0A0F2E"/>
+      <stop offset="100%" stop-color="#141a3d"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00FFCC"/>
+      <stop offset="100%" stop-color="#00b894"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="220" fill="url(#sky)"/>
+
+  <!-- twinkling stars -->
+  <g fill="#00FFCC">
+    <circle cx="80" cy="30" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="55" r="1.5"><animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="430" cy="25" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="45" r="1.5"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="20" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1120" cy="50" r="1.5"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- ground -->
+  <rect x="0" y="188" width="1280" height="32" fill="url(#ground)"/>
+  <g fill="#0A0F2E" opacity="0.25">
+    <rect x="0" y="188" width="1280" height="6"/>
+  </g>
+
+  <!-- floating tech blocks with bounce -->
+  <g font-family="JetBrains Mono, monospace" font-weight="700" font-size="18" text-anchor="middle">
+    <g transform="translate(160,90)">
+      <animateTransform attributeName="transform" type="translate" values="160,90;160,84;160,90" dur="1.6s" repeatCount="indefinite"/>
+      <rect x="-28" y="-28" width="56" height="56" rx="8" fill="#1a1a3d" stroke="#00FFCC" stroke-width="3"/>
+      <text x="0" y="8" fill="#00FFCC">M</text>
+    </g>
+    <g transform="translate(340,90)">
+      <animateTransform attributeName="transform" type="translate" values="340,90;340,84;340,90" dur="1.6s" begin="0.2s" repeatCount="indefinite"/>
+      <rect x="-28" y="-28" width="56" height="56" rx="8" fill="#1a1a3d" stroke="#00FFCC" stroke-width="3"/>
+      <text x="0" y="8" fill="#00FFCC">E</text>
+    </g>
+    <g transform="translate(520,90)">
+      <animateTransform attributeName="transform" type="translate" values="520,90;520,84;520,90" dur="1.6s" begin="0.4s" repeatCount="indefinite"/>
+      <rect x="-28" y="-28" width="56" height="56" rx="8" fill="#1a1a3d" stroke="#00FFCC" stroke-width="3"/>
+      <text x="0" y="8" fill="#00FFCC">R</text>
+    </g>
+    <g transform="translate(700,90)">
+      <animateTransform attributeName="transform" type="translate" values="700,90;700,84;700,90" dur="1.6s" begin="0.6s" repeatCount="indefinite"/>
+      <rect x="-28" y="-28" width="56" height="56" rx="8" fill="#1a1a3d" stroke="#00FFCC" stroke-width="3"/>
+      <text x="0" y="8" fill="#00FFCC">N</text>
+    </g>
+    <g transform="translate(900,90)">
+      <animateTransform attributeName="transform" type="translate" values="900,90;900,84;900,90" dur="1.6s" begin="0.8s" repeatCount="indefinite"/>
+      <rect x="-38" y="-28" width="76" height="56" rx="8" fill="#1a1a3d" stroke="#FF9A3C" stroke-width="3"/>
+      <text x="0" y="8" fill="#FF9A3C" font-size="15">JAVA</text>
+    </g>
+    <g transform="translate(1100,90)">
+      <animateTransform attributeName="transform" type="translate" values="1100,90;1100,84;1100,90" dur="1.6s" begin="1s" repeatCount="indefinite"/>
+      <rect x="-30" y="-28" width="60" height="56" rx="8" fill="#1a1a3d" stroke="#00FFCC" stroke-width="3"/>
+      <text x="0" y="8" fill="#00FFCC" font-size="16">AI</text>
+    </g>
+  </g>
+
+  <!-- pixel hero: runs across the whole header on loop -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-60,0;1340,0" dur="9s" repeatCount="indefinite"/>
+    <!-- little hop while running -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0; 0,-10; 0,0; 0,-10; 0,0" dur="0.6s" repeatCount="indefinite"/>
+      <!-- hero body (generic pixel coder, not Nintendo IP) -->
+      <g transform="translate(0,150)">
+        <!-- cap -->
+        <rect x="-14" y="-46" width="28" height="10" fill="#00FFCC"/>
+        <rect x="-14" y="-38" width="34" height="8" fill="#00FFCC"/>
+        <!-- head -->
+        <rect x="-12" y="-30" width="24" height="18" fill="#F2C18C"/>
+        <!-- code-symbol on cap -->
+        <text x="0" y="-40" font-family="monospace" font-size="8" fill="#0A0F2E" text-anchor="middle" font-weight="700">&lt;/&gt;</text>
+        <!-- torso -->
+        <rect x="-14" y="-12" width="28" height="20" fill="#1a1a3d" stroke="#00FFCC" stroke-width="1.5"/>
+        <!-- arms -->
+        <rect x="-20" y="-10" width="8" height="14" fill="#F2C18C"/>
+        <rect x="12" y="-10" width="8" height="14" fill="#F2C18C"/>
+        <!-- legs (running cycle) -->
+        <rect x="-12" y="8" width="10" height="16" fill="#0A0F2E">
+          <animate attributeName="height" values="16;8;16" dur="0.3s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="2" y="8" width="10" height="16" fill="#0A0F2E">
+          <animate attributeName="height" values="8;16;8" dur="0.3s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+  </g>
+
+  <!-- headline text -->
+  <text x="640" y="205" font-family="JetBrains Mono, monospace" font-size="13" fill="#5a5f8a" text-anchor="middle" letter-spacing="2">MERN  ·  JAVA  ·  GENAI</text>
+</svg>
