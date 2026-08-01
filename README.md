@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="./assets/header_hero.svg" width="100%"/>
+  <img src="header_hero.svg" width="100%"/>
   <h1>Sanjay Kumar</h1>
   <p><b>Full Stack Developer (MERN + Java) | Exploring GenAI</b></p>
 </div>
