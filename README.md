@@ -330,5 +330,5 @@ graph TD
 
 <!-- Footer -->
 <div align="center">
-  <img src="./assets/footer_hero.svg" width="100%"/>
+  <img src="footer_hero.svg" width="100%"/>
 </div>
