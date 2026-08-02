@@ -8,11 +8,35 @@
       <stop offset="0%" stop-color="#00FFCC"/>
       <stop offset="100%" stop-color="#00b894"/>
     </linearGradient>
+    <linearGradient id="capGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4dffe0"/>
+      <stop offset="55%" stop-color="#00FFCC"/>
+      <stop offset="100%" stop-color="#00a381"/>
+    </linearGradient>
+    <linearGradient id="skinGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffdcae"/>
+      <stop offset="60%" stop-color="#F2C18C"/>
+      <stop offset="100%" stop-color="#d69f68"/>
+    </linearGradient>
+    <linearGradient id="torsoGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2b2b5c"/>
+      <stop offset="55%" stop-color="#1a1a3d"/>
+      <stop offset="100%" stop-color="#0d0d24"/>
+    </linearGradient>
+    <linearGradient id="legGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#20204a"/>
+      <stop offset="100%" stop-color="#05050f"/>
+    </linearGradient>
+    <radialGradient id="shadowGrad2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="dropsh2" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
   </defs>
 
   <rect width="1280" height="170" fill="url(#sky2)"/>
-
-  <!-- ground -->
   <rect x="0" y="140" width="1280" height="30" fill="url(#ground2)"/>
 
   <!-- "?" power-up block that flips revealing AI -->
@@ -38,29 +62,37 @@
     <circle cx="2" cy="20" r="6" fill="#00FFCC"/>
   </g>
 
-  <!-- pixel hero running toward the flag, hops at the end -->
+  <!-- pixel hero (3D shaded, matches header) running toward the flag, hops at the end -->
   <g>
     <animateTransform attributeName="transform" type="translate" values="-60,0;-60,0;1060,0;1080,-30;1080,0" keyTimes="0;0.05;0.75;0.88;1" dur="7s" repeatCount="indefinite"/>
+
+    <ellipse cx="0" cy="146" rx="15" ry="4" fill="url(#shadowGrad2)">
+      <animate attributeName="rx" values="15;9;15;9;15" dur="0.55s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.4;0.9;0.4;0.9" dur="0.55s" repeatCount="indefinite"/>
+    </ellipse>
+
     <g>
       <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0; 0,-9; 0,0; 0,-9; 0,0" dur="0.55s" repeatCount="indefinite"/>
-      <g transform="translate(0,100)">
-        <rect x="-14" y="-46" width="28" height="10" fill="#00FFCC"/>
-        <rect x="-14" y="-38" width="34" height="8" fill="#00FFCC"/>
-        <rect x="-12" y="-30" width="24" height="18" fill="#F2C18C"/>
+      <g transform="translate(0,100)" filter="url(#dropsh2)">
+        <rect x="-14" y="-46" width="28" height="10" rx="2" fill="url(#capGrad2)"/>
+        <rect x="-15" y="-38" width="35" height="8" rx="2" fill="url(#capGrad2)"/>
+        <rect x="18" y="-36" width="4" height="4" fill="#00a381"/>
+        <rect x="-12" y="-30" width="24" height="18" rx="3" fill="url(#skinGrad2)"/>
+        <rect x="7" y="-28" width="3" height="14" fill="#c98a58" opacity="0.5"/>
         <text x="0" y="-40" font-family="monospace" font-size="8" fill="#0A0F2E" text-anchor="middle" font-weight="700">&lt;/&gt;</text>
-        <rect x="-14" y="-12" width="28" height="20" fill="#1a1a3d" stroke="#00FFCC" stroke-width="1.5"/>
-        <rect x="-20" y="-10" width="8" height="14" fill="#F2C18C"/>
-        <rect x="12" y="-10" width="8" height="14" fill="#F2C18C"/>
-        <rect x="-12" y="8" width="10" height="16" fill="#0A0F2E">
+        <rect x="-14" y="-12" width="28" height="20" rx="2" fill="url(#torsoGrad2)" stroke="#00FFCC" stroke-width="1.2"/>
+        <rect x="8" y="-12" width="6" height="20" fill="#000000" opacity="0.25"/>
+        <rect x="-20" y="-10" width="8" height="14" rx="2" fill="url(#skinGrad2)"/>
+        <rect x="12" y="-10" width="8" height="14" rx="2" fill="url(#skinGrad2)"/>
+        <rect x="-12" y="8" width="10" height="16" rx="2" fill="url(#legGrad2)">
           <animate attributeName="height" values="16;8;16" dur="0.28s" repeatCount="indefinite"/>
         </rect>
-        <rect x="2" y="8" width="10" height="16" fill="#0A0F2E">
+        <rect x="2" y="8" width="10" height="16" rx="2" fill="url(#legGrad2)">
           <animate attributeName="height" values="8;16;8" dur="0.28s" repeatCount="indefinite"/>
         </rect>
       </g>
     </g>
   </g>
 
-  <!-- coins collected counter style text -->
   <text x="60" y="35" font-family="JetBrains Mono, monospace" font-size="14" fill="#00FFCC" text-anchor="start">THANKS FOR VISITING ★</text>
 </svg>
